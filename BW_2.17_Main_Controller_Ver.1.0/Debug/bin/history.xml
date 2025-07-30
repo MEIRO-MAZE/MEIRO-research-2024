@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -g -Map=BW_2.17_Main_Controller_Ver.1.0.map -O0 --gc-sections -lm -lgcc -lc -lstdc++ -LC:\CooCox\CoIDE\configuration\ProgramData\BW_2.17_Main_Controller_Ver.1.0 -TC:\CooCox\CoIDE\configuration\ProgramData\BW_2.17_Main_Controller_Ver.1.0/arm-gcc-link.ld -g">
+      <target file="BW_2.17_Main_Controller_Ver.1.0.elf" lastModified="18f86c65ad0">
+         <source file="..\obj\bw_global_var.o" lastModified="18f820812f7"/>
+         <source file="..\obj\bw_dynamixel_ax_12a.o" lastModified="18f81133827"/>
+         <source file="..\obj\bw_usart_comm.o" lastModified="18f811338cb"/>
+         <source file="..\obj\bw_i2c_lcd.o" lastModified="18f81133965"/>
+         <source file="..\obj\BW_I2C_EEPROM.o" lastModified="18f81133a1a"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="18f540c3f58"/>
+         <source file="..\obj\bw_rotary_switch.o" lastModified="18f81133aac"/>
+         <source file="..\obj\bw_user_interface.o" lastModified="18f81133b72"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="18f540c410b"/>
+         <source file="..\obj\mz_servo_pwm.o" lastModified="18f81133c3d"/>
+         <source file="..\obj\main.o" lastModified="18f81133d11"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="18f540c42dc"/>
+         <source file="..\obj\bw_ping_receiver.o" lastModified="18f819b0311"/>
+         <source file="..\obj\bw_2021_algorithm.o" lastModified="18f86c65873"/>
+         <source file="..\obj\bw_sound_activation.o" lastModified="18f8113487b"/>
+         <source file="..\obj\bw_extinguisher.o" lastModified="18f8113497f"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="18f540c4f7b"/>
+         <source file="..\obj\bw2017_algorithm.o" lastModified="18f81135499"/>
+         <source file="..\obj\bw_pid_controller.o" lastModified="18f823c4cbb"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="18f540c5bcf"/>
+         <source file="..\obj\bw_dynamixel_xl_320.o" lastModified="18f81135611"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="18f540c5caf"/>
+         <source file="..\obj\syscalls.o" lastModified="18f540c5d14"/>
+         <source file="..\obj\bw_UV-TRON.o" lastModified="18f81135695"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="18f540c5e00"/>
+         <source file="..\obj\bw_systick_delay.o" lastModified="18f540c5e5e"/>
+         <source file="..\obj\bw_dynamixel_hexapod_cmd.o" lastModified="18f81136ce0"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="18f540c750c"/>
+         <source file="..\obj\bw_lcd.o" lastModified="18f81136d77"/>
+         <source file="..\obj\misc.o" lastModified="18f540c75f1"/>
+         <source file="..\obj\bw_cmps11.o" lastModified="18f81136fc6"/>
+         <source file="..\obj\bw_jetson_coms.o" lastModified="18f81137069"/>
+         <source file="..\obj\bw_tcs3200_receiver.o" lastModified="18f811371a1"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="18f540c7b71"/>
+         <source file="..\obj\bw_gripper_2021.o" lastModified="18f81137265"/>
+         <source file="..\obj\KRSI_stm32f4xx_dyna.o" lastModified="18f8113757b"/>
+      </target>
+   </processor>
+</history>
