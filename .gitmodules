@@ -1,0 +1,3 @@
+[submodule "modules/victim-detection-v1"]
+	path = modules/victim-detection-v1
+	url = https://github.com/MEIRO-MAZE/victim-detection-v1.git
