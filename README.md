@@ -6,7 +6,7 @@
 
 ## 📘 About the Research
 - **Team / Division:** MEIRO  
-- **Lead Developer:** **Luhur Pambudi**
+- **Lead Developer:** Luhur Pambudi
 - **Platform:** STM32F407VGT6 + NVIDIA Jetson Nano 4 GB  
 - **Timeline:** 01 Aug 2023 – 30 May 2024  
 - **Status:** ✅ v1.0 released  
@@ -64,7 +64,7 @@ The *Kontes Robot SAR Indonesia (KRSRI) 2024* challenges teams to build **autono
 ## 🧪 Experiments & Evaluation
 | Scenario | Arena | Victims | Result |
 |----------|-------|---------|--------|
-| **Regional Qualifier 2024** | 360 × 120 cm | 5 real + 3 dummy | **3/5 victims rescued** <br> Furthest obstacle: **R9 (final stair)** <br> **Best time to R9: 7 min 00 s (exceeds 5 min limit)** <br> **Status:** *Did not qualify for National round* |
+| **Regional Qualifier 2024** | 360 × 120 cm | 5 real + 3 dummy | **3/5 victims rescued** <br> Furthest obstacle: **R9 (final step of the stair)** <br> **Best time to R9: 7 min 00 s (exceeds 5 min limit)** <br> **Status:** *Did not qualify for National round* |
 
 ---
 
@@ -74,7 +74,7 @@ The *Kontes Robot SAR Indonesia (KRSRI) 2024* challenges teams to build **autono
 | Victim sensor | TCS3200 colour only | Jetson Nano + YOLOv5n |
 | Distance sensor | 4-pin PING | 3-pin **Laser PING** side + **VL53L0X** front |
 | CV latency | 320 ms | **95 ms** |
-| Mission success | 4/5 victims | **3/5 victims, stuck at R9** |
+| Mission success | 4/5 victims | **3/5 victims, stuck at R10** |
 
 ---
 
