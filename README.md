@@ -56,8 +56,10 @@ The *Kontes Robot SAR Indonesia (KRSRI) 2024* challenges teams to build **autono
 | **Actuators** | 18× Dynamixel AX-12A | Firmware v41 |
 | **Distance Sensors** | • 3-pin **Laser PING** (side) <br> • **VL53L0X** ToF (front) | 2 cm – 4 m |
 | **Vision** | Jetson Nano 4 GB + YOLOv5n (INT8) | JetPack 4.6.1 |
-| **Power** | 3S 11.1 V 5000 mAh (motors) <br> 2S 7.4 V 2200 mAh (logic) | - |
+| **Power** | 3S 11.1 V 5000 mAh (actuators) <br> 2S 7.4 V 2200 mAh (logic) | - |
 | **Comm.** | UART @ 115 200 b/s between STM32 ↔ Jetson | - |
+| **IDE** | CooCox CoIDE | 2.0.6 |
+| **Language** | C (ARM GCC) | 10.3.1 |
 
 ---
 
